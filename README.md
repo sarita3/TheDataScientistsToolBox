@@ -2,9 +2,9 @@
 
 * R Programming-
 
-* Exploratory Data Analysis
-
 * Getting and Cleaning Data+
+
+* Exploratory Data Analysis
 
 * Exploratory Data Analysis
 
@@ -13,3 +13,5 @@
 * Statistical Inference
 
 * Regression Models
+
+Git is easy. Git is fun. Thanks Linus!
